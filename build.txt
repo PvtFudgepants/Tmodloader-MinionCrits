@@ -1,4 +1,7 @@
 author = PvtFudgepants
-version = 1.0
+version = 1.1.0
 displayName = Minion Crits
 homepage = https://forums.terraria.org/index.php?threads/pvt-fudgepantss-mods.59971/
+hideCode = true
+buildIgnore = .vs\*, Properties\*, *.csproj, *.user, obj\*, bin\*, *.config, lib\*, .gitignore, .git\*
+includePDB = true

@@ -20,7 +20,7 @@ namespace MinionCrits
 				else {
 					for (int i = 0; i < 1000; i++) {
 						Projectile CheckProjectile = Main.projectile[i];
-						if (CheckProjectile.active && (CheckProjectile.minion || CheckProjectile.sentry) && CheckProjectile.type + 1 == projectile.type) {
+						if (CheckProjectile.active && (CheckProjectile.minion || CheckProjectile.sentry)) {
 							fromsummon = true;
 							foreach(Item item in Main.player[projectile.owner].inventory) {
 								if (item.shoot == CheckProjectile.type) {

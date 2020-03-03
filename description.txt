@@ -1,5 +1,13 @@
-This mod makes minions able to crit enemies.
+This mod makes minions and sentries able to crit enemies like any other weapon.
 
-The crit chance used is your highest crit chance between Melee, Ranged, Magic, and Thrown damage.
+You can either have the crit chance copy the crit chance of a specific weapon types, use your highest crit chance value, or have it at a flat 10% (but can be manually adjusted by the crit chance multiplier config)
 
-Everything is customizable in the config file: The crit chance, the damage type that summon crit chance is based off of, and the crit damage multiplier! 
+Everything is customizable in the config menu.
+
+v1.1.0
+-Added a mod config menu.
+-Added option to allow minion crits to gain bonus knockback like other weapons do.
+-Added "flat 10% crit chance" option (can be adjusted by crit chance multiplier config)
+
+v1.0.0
+-Initial release
