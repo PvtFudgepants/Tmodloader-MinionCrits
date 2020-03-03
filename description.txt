@@ -1,0 +1,5 @@
+This mod makes minions able to crit enemies.
+
+The crit chance used is your highest crit chance between Melee, Ranged, Magic, and Thrown damage.
+
+Everything is customizable in the config file: The crit chance, the damage type that summon crit chance is based off of, and the crit damage multiplier! 

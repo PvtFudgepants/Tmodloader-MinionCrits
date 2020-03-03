@@ -1,0 +1,3 @@
+C:\Users\Chris\Documents\My Games\Terraria\ModLoader\Mod Sources\MinionCrits\obj\Debug\net45\MinionCrits.csprojAssemblyReference.cache
+C:\Users\Chris\Documents\My Games\Terraria\ModLoader\Mod Sources\MinionCrits\obj\Debug\net45\MinionCrits.AssemblyInfoInputs.cache
+C:\Users\Chris\Documents\My Games\Terraria\ModLoader\Mod Sources\MinionCrits\obj\Debug\net45\MinionCrits.AssemblyInfo.cs

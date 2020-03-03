@@ -1,0 +1,4 @@
+author = PvtFudgepants
+version = 1.0
+displayName = Minion Crits
+homepage = https://forums.terraria.org/index.php?threads/pvt-fudgepantss-mods.59971/
